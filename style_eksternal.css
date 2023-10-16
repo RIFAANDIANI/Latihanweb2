@@ -1,0 +1,24 @@
+/* ID Selector */
+#intro {
+    background: #b6bec2;
+    border: 1px solid #941b2b;
+    min-height: 100px;
+    padding: 10px;
+    }
+    #intro h1 {
+    text-align: left;
+    border: 0;
+    color: #810707;
+    }
+    /* Class Selector */
+    .button {
+    padding: 15px 20px;
+    background: #3a2a32;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    }
+    .btn-primary {
+    background: #E42A42;
+    }
